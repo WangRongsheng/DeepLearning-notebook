@@ -1,6 +1,6 @@
 # DeepLearning-notebook
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+一些深度学习的学习记录
 
 # Tensorflow深度学习框架
 
